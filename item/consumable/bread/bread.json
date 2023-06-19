@@ -1,0 +1,7 @@
+{
+  "name": "g2d2.item.consumable.bread.name",
+  "description": "g2d2.item.consumable.bread.description",
+  "health": 0,
+  "hunger": 40,
+  "thirst": 0
+}

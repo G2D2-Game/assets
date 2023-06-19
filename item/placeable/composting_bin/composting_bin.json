@@ -1,0 +1,5 @@
+{
+  "name": "g2d2.item.placeable.composting_bin.name",
+  "description": "g2d2.item.placeable.composting_bin.description",
+  "tile": "g2d2.tile.fg.recycling_bin"
+}

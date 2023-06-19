@@ -1,0 +1,7 @@
+{
+  "name": "g2d2.item.consumable.bandage.name",
+  "description": "g2d2.item.consumable.bandage.description",
+  "health": 25,
+  "hunger": 0,
+  "thirst": 0
+}

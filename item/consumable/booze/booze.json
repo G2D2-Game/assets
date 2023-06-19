@@ -1,0 +1,7 @@
+{
+  "name": "g2d2.item.consumable.booze.name",
+  "description": "g2d2.item.consumable.booze.description",
+  "health": -10,
+  "hunger": 0,
+  "thirst": 50
+}
