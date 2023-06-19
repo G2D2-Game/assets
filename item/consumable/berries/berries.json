@@ -1,6 +1,7 @@
 {
   "name": "g2d2.item.consumable.berries.name",
   "description": "g2d2.item.consumable.berries.description",
+  "consumptionTicks": 10,
   "health": 5,
   "hunger": 15,
   "thirst": 10

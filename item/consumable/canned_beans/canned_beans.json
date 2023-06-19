@@ -1,6 +1,7 @@
 {
   "name": "g2d2.item.consumable.canned_beans.name",
   "description": "g2d2.item.consumable.canned_beans.description",
+  "consumptionTicks": 10,
   "health": 0,
   "hunger": 30,
   "thirst": 0
