@@ -1,0 +1,6 @@
+{
+  "name": "g2d2.item.weapon.melee.axe.name",
+  "description": "g2d2.item.weapon.melee.axe.description",
+  "damage": 15,
+  "attackTicks": 10
+}

@@ -1,0 +1,6 @@
+{
+  "name": "g2d2.item.weapon.melee.club.name",
+  "description": "g2d2.item.weapon.melee.club.description",
+  "damage": 20,
+  "attackTicks": 30
+}

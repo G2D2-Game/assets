@@ -1,0 +1,6 @@
+{
+  "name": "g2d2.item.weapon.melee.plastic_knife.name",
+  "description": "g2d2.item.weapon.melee.plastic_knife.description",
+  "damage": 3,
+  "attackTicks": 5
+}

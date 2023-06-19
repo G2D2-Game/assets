@@ -1,0 +1,6 @@
+{
+  "name": "g2d2.item.weapon.melee.combat_knife.name",
+  "description": "g2d2.item.weapon.melee.combat_knife.description",
+  "damage": 25,
+  "attackTicks": 10
+}
