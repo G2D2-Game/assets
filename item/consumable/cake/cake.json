@@ -1,0 +1,8 @@
+{
+  "name": "g2d2.item.consumable.cake.name",
+  "description": "g2d2.item.consumable.cake.description",
+  "consumptionTicks": 20,
+  "health": 0,
+  "hunger": 40,
+  "thirst": 0
+}
