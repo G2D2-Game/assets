@@ -1,5 +1,6 @@
 {
   "id": "g2d2.tile.fg.recycling_bin",
   "strength": "WEAPON",
-  "strengthMultiplier": 1
+  "strengthMultiplier": 1,
+  "collision": true
 }

@@ -1,5 +1,6 @@
 {
   "id": "g2d2.tile.fg.metal_wall",
   "strength": "EXPLOSIVE",
-  "strengthMultiplier": 2
+  "strengthMultiplier": 2,
+  "collision": true
 }

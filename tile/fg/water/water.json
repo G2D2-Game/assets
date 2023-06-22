@@ -1,5 +1,6 @@
 {
   "id": "g2d2.tile.fg.water",
   "strength": "INDESTRUCTIBLE",
-  "strengthMultiplier": 0
+  "strengthMultiplier": 0,
+  "collision": true
 }
