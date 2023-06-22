@@ -1,6 +1,4 @@
 {
-  "name": "g2d2.item.consumable.bandage.name",
-  "description": "g2d2.item.consumable.bandage.description",
   "consumptionTicks": 10,
   "health": 25,
   "hunger": 0,

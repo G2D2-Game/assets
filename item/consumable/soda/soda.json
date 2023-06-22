@@ -1,6 +1,4 @@
 {
-  "name": "g2d2.item.consumable.soda.name",
-  "description": "g2d2.item.consumable.soda.description",
   "consumptionTicks": 10,
   "health": 0,
   "hunger": 0,

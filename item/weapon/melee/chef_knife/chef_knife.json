@@ -1,6 +1,4 @@
 {
-  "name": "g2d2.item.weapon.melee.chef_knife.name",
-  "description": "g2d2.item.weapon.melee.chef_knife.description",
   "damage": 20,
   "attackTicks": 15
 }

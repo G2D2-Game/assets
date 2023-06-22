@@ -1,5 +1,3 @@
 {
-  "name": "g2d2.item.placeable.garbage_bin.name",
-  "description": "g2d2.item.placeable.garbage_bin.description",
   "tile": "g2d2.tile.fg.garbage_bin"
 }

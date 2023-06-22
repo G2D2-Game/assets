@@ -1,6 +1,4 @@
 {
-  "name": "g2d2.item.weapon.ranged.pistol.name",
-  "description": "g2d2.item.weapon.ranged.pistol.description",
   "damage": 15,
   "attackTicks": 10,
   "automatic": false,

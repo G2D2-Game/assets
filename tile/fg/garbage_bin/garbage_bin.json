@@ -1,5 +1,4 @@
 {
-  "id": "g2d2.tile.fg.garbage_bin",
   "strength": "WEAPON",
   "strengthMultiplier": 1,
   "collision": true

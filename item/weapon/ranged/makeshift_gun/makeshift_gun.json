@@ -1,6 +1,4 @@
 {
-  "name": "g2d2.item.weapon.ranged.makeshift_gun.name",
-  "description": "g2d2.item.weapon.ranged.makeshift_gun.description",
   "damage": 10,
   "attackTicks": 10,
   "automatic": false,

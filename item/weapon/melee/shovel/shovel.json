@@ -1,6 +1,4 @@
 {
-  "name": "g2d2.item.weapon.melee.spoon.name",
-  "description": "g2d2.item.weapon.melee.spoon.description",
   "damage": 15,
   "attackTicks": 15
 }
