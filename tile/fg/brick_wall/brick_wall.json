@@ -1,5 +1,4 @@
 {
   "strength": "EXPLOSIVE",
-  "strengthMultiplier": 1.5,
-  "collision": true
+  "strengthMultiplier": 1.5
 }

@@ -1,5 +1,4 @@
 {
   "strength": "INDESTRUCTIBLE",
-  "strengthMultiplier": 0,
-  "collision": true
+  "strengthMultiplier": 0
 }

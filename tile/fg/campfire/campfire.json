@@ -1,5 +1,4 @@
 {
   "strength": "FIST",
-  "strengthMultiplier": 1,
-  "collision": true
+  "strengthMultiplier": 1
 }
