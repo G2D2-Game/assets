@@ -1,0 +1,24 @@
+[
+  {
+    "id": "g2d2.item.weapon.ranged.makeshift_gun",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.battery",
+        "count": 1
+      },
+      {
+        "id": "g2d2.item.misc.pipe",
+        "count": 1
+      },
+      {
+        "id": "g2d2.item.misc.twine",
+        "count": 2
+      },
+      {
+        "id": "g2d2.item.misc.wood",
+        "count": 1
+      }
+    ]
+  }
+]
