@@ -1,8 +1,12 @@
 {
   "damage": 5,
   "attackTicks": 5,
-  "automatic": false,
   "range": 20,
   "reloadTicks": 25,
-  "magazineCapacity": 30
+  "magazineCapacity": 30,
+  "modes": [
+    "SEMI",
+    "BURST",
+    "AUTO"
+  ]
 }
