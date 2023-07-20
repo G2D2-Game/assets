@@ -1,6 +1,108 @@
 [
   {
-    "id": "g2d2.item.weapon.ranged.makeshift_gun",
+    "id": "g2d2.item.misc.bomb",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.fertilizer",
+        "count": 3
+      },
+      {
+        "id": "g2d2.item.misc.radio",
+        "count": 1
+      },
+      {
+        "id": "g2d2.item.misc.twine",
+        "count": 2
+      },
+      {
+        "id": "g2d2.item.placeable.metal_crate",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.placeable.brick_wall",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.brick",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.placeable.campfire",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.wood",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.placeable.metal_crate",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.raw_metal",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.placeable.metal_door",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.raw_metal",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.placeable.metal_wall",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.raw_metal",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.placeable.wood_crate",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.wood",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.placeable.wood_door",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.wood",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.placeable.wood_wall",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.wood",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.weapon.ranged.makeshift_pistol",
     "count": 1,
     "materials": [
       {
@@ -18,6 +120,28 @@
       {
         "id": "g2d2.item.misc.wood",
         "count": 1
+      }
+    ]
+  },
+  {
+    "id": "g2d2.item.weapon.ranged.makeshift_shotgun",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.battery",
+        "count": 1
+      },
+      {
+        "id": "g2d2.item.misc.pipe",
+        "count": 2
+      },
+      {
+        "id": "g2d2.item.misc.twine",
+        "count": 2
+      },
+      {
+        "id": "g2d2.item.misc.wood",
+        "count": 2
       }
     ]
   }

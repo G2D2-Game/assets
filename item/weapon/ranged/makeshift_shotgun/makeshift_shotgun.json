@@ -1,0 +1,11 @@
+{
+  "damage": 7,
+  "attackTicks": 5,
+  "range": 7,
+  "reloadTicks": 25,
+  "magazineCapacity": 2,
+  "modes": [
+    "SEMI"
+  ],
+  "spread": 3
+}
