@@ -22,6 +22,20 @@
     ]
   },
   {
+    "id": "g2d2.item.placeable.bed",
+    "count": 1,
+    "materials": [
+      {
+        "id": "g2d2.item.misc.twine",
+        "count": 10
+      },
+      {
+        "id": "g2d2.item.misc.wood",
+        "count": 4
+      }
+    ]
+  },
+  {
     "id": "g2d2.item.placeable.brick_wall",
     "count": 1,
     "materials": [
