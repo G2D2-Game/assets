@@ -35,7 +35,7 @@
       ]
     },
     {
-      "id": "g2d2.item.misc.raw_metal",
+      "id": "g2d2.item.misc.raw_iron",
       "count": 3,
       "materials": [
         {
@@ -63,7 +63,7 @@
           "count": 2
         },
         {
-          "id": "g2d2.item.placeable.metal_crate",
+          "id": "g2d2.item.placeable.iron_crate",
           "count": 1
         }
       ]
@@ -103,31 +103,31 @@
       ]
     },
     {
-      "id": "g2d2.item.placeable.metal_crate",
+      "id": "g2d2.item.placeable.iron_crate",
       "count": 1,
       "materials": [
         {
-          "id": "g2d2.item.misc.raw_metal",
+          "id": "g2d2.item.misc.raw_iron",
           "count": 6
         }
       ]
     },
     {
-      "id": "g2d2.item.placeable.metal_door",
+      "id": "g2d2.item.placeable.iron_door",
       "count": 1,
       "materials": [
         {
-          "id": "g2d2.item.misc.raw_metal",
+          "id": "g2d2.item.misc.raw_iron",
           "count": 4
         }
       ]
     },
     {
-      "id": "g2d2.item.placeable.metal_wall",
+      "id": "g2d2.item.placeable.iron_wall",
       "count": 1,
       "materials": [
         {
-          "id": "g2d2.item.misc.raw_metal",
+          "id": "g2d2.item.misc.raw_iron",
           "count": 5
         }
       ]
