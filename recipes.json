@@ -11,18 +11,6 @@
       ]
     }
   ],
-  "g2d2.tile.fg.garbage_bin": [
-    {
-      "id": null,
-      "count": 0,
-      "materials": [
-        {
-          "id": "g2d2.item.*",
-          "count": 1
-        }
-      ]
-    }
-  ],
   "g2d2.tile.fg.recycling_bin": [
     {
       "id": "g2d2.item.misc.fabric",
