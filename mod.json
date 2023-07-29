@@ -1,7 +1,8 @@
 {
   "name": "Core",
   "description": "Assets included with G2D2.",
-  "bundleVersion": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.1",
+  "modVersion": "1.0.0-alpha.1",
   "gameVersion": "1.0.0-alpha.1",
   "workshopId": "g2d2"
 }
