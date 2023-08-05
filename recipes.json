@@ -1,196 +1,800 @@
 {
   "g2d2.tile.fg.composting_bin": [
     {
-      "id": "g2d2.item.misc.fertilizer",
-      "count": 1,
-      "materials": [
+      "input": [
         {
-          "id": "g2d2.item.consumable.*",
-          "count": 5
+          "count": 5,
+          "id": "g2d2.item.consumable.berries"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.fertilizer"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.consumable.bread"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.fertilizer"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.consumable.cake"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.fertilizer"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 3,
+          "id": "g2d2.item.consumable.canned_beans"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.can"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.fertilizer"
+        }
+      ]
+    }
+  ],
+  "g2d2.tile.fg.kiln": [
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.raw_copper"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.copper_wire"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.iron_bar"
         }
       ]
     }
   ],
   "g2d2.tile.fg.recycling_bin": [
     {
-      "id": "g2d2.item.misc.fabric",
-      "count": 3,
-      "materials": [
+      "input": [
         {
-          "id": "g2d2.item.clothing.*",
-          "count": 1
+          "count": 1,
+          "id": "g2d2.item.clothing.backpack"
+        }
+      ],
+      "output": [
+        {
+          "count": 6,
+          "id": "g2d2.item.generic.fabric"
         }
       ]
     },
     {
-      "id": "g2d2.item.misc.raw_iron",
-      "count": 3,
-      "materials": [
+      "input": [
         {
-          "id": "g2d2.item.weapon.*",
-          "count": 1
+          "count": 1,
+          "id": "g2d2.item.consumable.bandage"
+        }
+      ],
+      "output": [
+        {
+          "count": 3,
+          "id": "g2d2.item.generic.fabric"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.consumable.booze"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.bottle"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.consumable.bottled_water"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.bottle"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.consumable.canned_beans"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.can"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.explosive.bomb"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.fertilizer"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.radio"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.twine"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.iron_crate"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.bottle"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.plastic"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.can"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.detonator.detonator"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.electronics"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.radio"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.electronics"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.copper_wire"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.plastic"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.axe"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.raw_iron"
+        },
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.wood_plank"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.bat"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.wood_plank"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.chef_knife"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.club"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.wood_plank"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.combat_knife"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.pan"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.plastic_knife"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.plastic"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.shovel"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.raw_iron"
+        },
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.wood_plank"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.makeshift_pistol"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.pipe"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.twine"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.wood_plank"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.shotgun.makeshift_shotgun"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.pipe"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.twine"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.pistol"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.rifle"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.raw_iron"
+        },
+        {
+          "count": 3,
+          "id": "g2d2.item.generic.wood_plank"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.shotgun.sawed_off"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.smg"
+        }
+      ],
+      "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.sniper"
+        }
+      ],
+      "output": [
+        {
+          "count": 3,
+          "id": "g2d2.item.generic.raw_iron"
         }
       ]
     }
   ],
   "g2d2.tile.fg.workbench": [
     {
-      "id": "g2d2.item.misc.bomb",
-      "count": 1,
-      "materials": [
+      "input": [
         {
-          "id": "g2d2.item.misc.fertilizer",
-          "count": 3
+          "count": 4,
+          "id": "g2d2.item.generic.fabric"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.consumable.bandage"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 3,
+          "id": "g2d2.item.generic.fertilizer"
         },
         {
-          "id": "g2d2.item.misc.radio",
-          "count": 1
+          "count": 1,
+          "id": "g2d2.tile.fg.radio"
         },
         {
-          "id": "g2d2.item.misc.twine",
-          "count": 2
+          "count": 2,
+          "id": "g2d2.item.generic.twine"
         },
         {
-          "id": "g2d2.item.placeable.iron_crate",
-          "count": 1
+          "count": 1,
+          "id": "g2d2.tile.fg.iron_crate"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.explosive.bomb"
         }
       ]
     },
     {
-      "id": "g2d2.item.placeable.bed",
-      "count": 1,
-      "materials": [
+      "input": [
         {
-          "id": "g2d2.item.misc.twine",
-          "count": 10
+          "count": 2,
+          "id": "g2d2.item.generic.wood"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.wood_plank"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.battery"
         },
         {
-          "id": "g2d2.item.misc.wood",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.placeable.brick_wall",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.brick",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.placeable.campfire",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.wood",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.placeable.iron_crate",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.raw_iron",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.placeable.iron_door",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.raw_iron",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.placeable.iron_wall",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.raw_iron",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.placeable.wood_crate",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.wood",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.placeable.wood_door",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.wood",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.placeable.wood_wall",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.wood",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "id": "g2d2.item.weapon.ranged.makeshift_pistol",
-      "count": 1,
-      "materials": [
-        {
-          "id": "g2d2.item.misc.battery",
-          "count": 1
+          "count": 1,
+          "id": "g2d2.item.generic.pipe"
         },
         {
-          "id": "g2d2.item.misc.pipe",
-          "count": 1
+          "count": 2,
+          "id": "g2d2.item.generic.twine"
         },
         {
-          "id": "g2d2.item.misc.twine",
-          "count": 2
-        },
+          "count": 1,
+          "id": "g2d2.item.generic.wood"
+        }
+      ],
+      "output": [
         {
-          "id": "g2d2.item.misc.wood",
-          "count": 1
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.makeshift_pistol"
         }
       ]
     },
     {
-      "id": "g2d2.item.weapon.ranged.makeshift_shotgun",
-      "count": 1,
-      "materials": [
+      "input": [
         {
-          "id": "g2d2.item.misc.battery",
-          "count": 1
+          "count": 1,
+          "id": "g2d2.item.generic.battery"
         },
         {
-          "id": "g2d2.item.misc.pipe",
-          "count": 2
+          "count": 2,
+          "id": "g2d2.item.generic.pipe"
         },
         {
-          "id": "g2d2.item.misc.twine",
-          "count": 2
+          "count": 2,
+          "id": "g2d2.item.generic.twine"
         },
         {
-          "id": "g2d2.item.misc.wood",
-          "count": 2
+          "count": 2,
+          "id": "g2d2.item.generic.wood"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.ranged.shotgun.makeshift_shotgun"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 10,
+          "id": "g2d2.item.generic.twine"
+        },
+        {
+          "count": 4,
+          "id": "g2d2.item.generic.wood"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.bed"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.generic.brick"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.brick_wall"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.generic.wood"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.campfire"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.generic.iron_bar"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.composting_bin"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.generic.iron_bar"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.garbage_bin"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 6,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.iron_crate"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 4,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.iron_door"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.iron_wall"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.glass"
+        },
+        {
+          "count": 3,
+          "id": "g2d2.item.generic.iron_bar"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.kiln"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.generic.iron_bar"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.recycling_bin"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 6,
+          "id": "g2d2.item.generic.wood"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.wood_crate"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 4,
+          "id": "g2d2.item.generic.wood"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.wood_door"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.generic.wood"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.wood_wall"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 5,
+          "id": "g2d2.item.generic.wood_plank"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.tile.fg.workbench"
         }
       ]
     }
