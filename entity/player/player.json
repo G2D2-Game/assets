@@ -1,0 +1,10 @@
+{
+  "north1": "player_north_1.png",
+  "north2": "player_north_2.png",
+  "south1": "player_south_1.png",
+  "south2": "player_south_2.png",
+  "west1": "player_west_1.png",
+  "west2": "player_west_2.png",
+  "east1": "player_east_1.png",
+  "east2": "player_east_2.png"
+}
