@@ -110,6 +110,42 @@
       "input": [
         {
           "count": 1,
+          "id": "g2d2.item.explosive.pipe_bomb"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.twine"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.plastic"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.lighter"
+        }
+      ],
+      "output": [
+        {
+          "count":1,
+          "id": "g2d2.item.generic.raw_iron"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
           "id": "g2d2.item.consumable.bandage"
         }
       ],
@@ -166,7 +202,7 @@
       "input": [
         {
           "count": 1,
-          "id": "g2d2.item.explosive.bomb"
+          "id": "g2d2.item.explosive.crude_bomb"
         }
       ],
       "output": [
@@ -524,7 +560,33 @@
       "output": [
         {
           "count": 1,
-          "id": "g2d2.item.explosive.bomb"
+          "id": "g2d2.item.explosive.crude_bomb"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 3,
+          "id": "g2d2.item.generic.pipe"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.plastic"
+        },
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.twine"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.weapon.melee.lighter"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.explosive.pipe_bomb"
         }
       ]
     },
