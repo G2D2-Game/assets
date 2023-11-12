@@ -434,7 +434,7 @@
       "input": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.makeshift_fabricated_pistol"
+          "id": "g2d2.item.weapon.ranged.makeshift_pistol"
         }
       ],
       "output": [
@@ -648,7 +648,7 @@
       "output": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.makeshift_fabricated_pistol"
+          "id": "g2d2.item.weapon.ranged.makeshift_pistol"
         }
       ]
     },
