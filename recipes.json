@@ -239,13 +239,35 @@
       ]
     },
     {
-      "input": [
+     "input": [
         {
           "count": 1,
           "id": "g2d2.item.generic.can"
         }
       ],
       "output": [
+        {
+          "count": 2,
+          "id": "g2d2.item.generic.plastic"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "count": 1,
+          "id": "g2d2.item.explosive.c4"
+        }
+      ],
+      "output": [
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.plastic"
+        },
+        {
+          "count": 1,
+          "id": "g2d2.item.generic.electronics"
+        },
         {
           "count": 1,
           "id": "g2d2.item.generic.raw_iron"
@@ -412,7 +434,7 @@
       "input": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.makeshift_pistol"
+          "id": "g2d2.item.weapon.ranged.makeshift_fabricated_pistol"
         }
       ],
       "output": [
@@ -452,7 +474,7 @@
       "input": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.pistol"
+          "id": "g2d2.item.weapon.ranged.fabricated_pistol"
         }
       ],
       "output": [
@@ -466,7 +488,7 @@
       "input": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.rifle"
+          "id": "g2d2.item.weapon.ranged.fabricated_rifle"
         }
       ],
       "output": [
@@ -484,7 +506,7 @@
       "input": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.shotgun.sawed_off"
+          "id": "g2d2.item.weapon.ranged.shotgun.fabricated_shotgun"
         }
       ],
       "output": [
@@ -498,7 +520,7 @@
       "input": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.smg"
+          "id": "g2d2.item.weapon.ranged.fabricated_smg"
         }
       ],
       "output": [
@@ -512,7 +534,7 @@
       "input": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.sniper"
+          "id": "g2d2.item.weapon.ranged.fabricated_sniper"
         }
       ],
       "output": [
@@ -626,7 +648,7 @@
       "output": [
         {
           "count": 1,
-          "id": "g2d2.item.weapon.ranged.makeshift_pistol"
+          "id": "g2d2.item.weapon.ranged.makeshift_fabricated_pistol"
         }
       ]
     },
